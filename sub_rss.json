@@ -1,26 +1,34 @@
 [
   {
     "name": "solo leveling",
-    "eps": [12]
+    "eps": [12, 12]
   },
   {
     "name": "Shangri-La Frontier",
-    "eps": [25]
+    "eps": [25, 25]
   },
   {
     "name": "Ao no Miburo",
-    "eps": []
+    "eps": [24]
   },
   {
     "name": "Unnamed Memory",
-    "eps": [12]
+    "eps": [12, 12]
   },
   {
     "name": "Hana wa Saku, Shura no Gotoku",
-    "eps": []
+    "eps": [12]
   },
   {
     "name": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
     "eps": []
+  },
+  {
+    "name": "Nihon e Youkoso Elf-san",
+    "eps": [12]
+  },
+  {
+    "name": "Rurouni Kenshin (2023)",
+    "eps": [24]
   }
 ]
